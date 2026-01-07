@@ -200,12 +200,6 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-6.svg" alt="Spark" width="65" height="65"/><br>Apache Spark
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://seeklogo.com/images/A/airflow-logo-FC0D6E5CA6-seeklogo.com.png" alt="Airflow" width="65" height="65"/><br>Apache Airflow
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65"/><br>Tableau
       </td>
       <td align="center" style="border: none;">
