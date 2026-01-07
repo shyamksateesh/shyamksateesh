@@ -112,13 +112,13 @@
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="65" height="65" alt="Hugging Face"/><br>Hugging Face
       </td>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/XGBoost_logo.png" alt="XGBoost" width="65" height="65"/><br>XGBoost
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="65" height="65" alt="ChatGPT"/><br>ChatGPT
       </td>
       <td align="center" style="border: none;">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="65" height="65" alt="Claude"/><br>Claude
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
       </td>
     </tr>
   </tbody>
