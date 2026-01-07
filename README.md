@@ -118,7 +118,7 @@
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="65" height="65" alt="Claude"/><br>Claude
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="65" /><br>Google Gemini
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="65" height="65" /><br>Google Gemini
       </td>
     </tr>
   </tbody>
