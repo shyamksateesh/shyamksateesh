@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=CS+Grad+Student+%40+NYU;ML+Engineer;Software+Engineer;Data+Scientist;Computer+Vision+Enthusiast;Audio+ML+Researcher" alt="Typing SVG" />
   </p>
   
-  <p><strong>Building ML systems that work in production | Seeking Summer 2026 internships</strong></p>
+  <p><strong>Building ML systems that work in production | Looking for Summer 2026 Opportunities</strong></p>
 </div>
 
 ---
