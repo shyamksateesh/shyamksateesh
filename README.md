@@ -17,7 +17,7 @@
 - 🎓 MS in Computer Science @ **New York University** (3.9 GPA, graduating May 2027)
 - 🔬 Research interests: Computer Vision, Audio ML, Reinforcement Learning, Data Science
 - 💼 Previous experience: Built ML pipelines processing 40M+ data points, deployed models serving real-time inference, optimized systems improving CTR by 12%
-- 🎵 When I'm not coding: Carnatic classical music, trekking, cooking, running
+- 🎵 When I'm not coding: Carnatic classical music, hiking, cooking, running, pickleball
 - 🌐 Portfolio: [shyamksateesh.github.io](https://shyamksateesh.github.io)
 
 ---
