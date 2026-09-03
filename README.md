@@ -4,27 +4,28 @@
   <h1>Hi, I'm Shyam 👋</h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=CS+Grad+Student+%40+NYU;ML+Engineer;Software+Engineer;Data+Scientist;Computer+Vision+Enthusiast;Audio+ML+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=CS+Grad+Student+%40+NYU;ML+Engineer+%40+Sony+PlayStation;Software+Engineer;Computer+Vision+%26+Audio+ML" alt="Typing SVG" />
   </p>
   
-  <p><strong>Building ML systems that work in production | Looking for Summer 2026 Opportunities</strong></p>
+  <p><strong>Building ML systems that work in production | Open to Full-Time SWE/ML roles, Dec 2026 grad</strong></p>
 </div>
 
 ---
 
 ## 🎓 About Me
 
-- 🎓 MS in Computer Science @ **New York University** (3.9 GPA, graduating May 2027)
-- 🔬 Research interests: Computer Vision, Audio ML, Reinforcement Learning, Data Science
-- 💼 Previous experience: Built ML pipelines processing 40M+ data points, deployed models serving real-time inference, optimized systems improving CTR by 12%
-- 🎵 When I'm not coding: Carnatic classical music, hiking, cooking, running, pickleball
+- 🎓 MS in Computer Science @ **New York University** (3.67 GPA, expected December 2026)
+- 💼 **ML Engineer Intern @ Sony Interactive Entertainment (PlayStation)** — built a residual CNN for streaming video enhancement, achieving a 10.2x PSNR improvement over baseline while cutting model size by 85%
+- 🔬 Background spans computer vision, audio ML, and data science — from EEG signal processing (40M+ data points) to production-scale computer vision pipelines (350k+ annotations)
+- 🏆 Best Capstone Award for a multimodal emotion recognition system (audio + video fusion, 80.84% accuracy)
+- 🎵 Outside of code: Carnatic classical music, hiking, cooking, running, pickleball
 - 🌐 Portfolio: [shyamksateesh.github.io](https://shyamksateesh.github.io)
 
 ---
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Languages</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -43,9 +44,6 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/><br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/><br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65"/><br>C
       </td>
       <td align="center" style="border: none;">
@@ -59,15 +57,10 @@
 </table>
 </div>
 
-<h3 align="center">AI/ML & Data Science</h3>
+<h3 align="center">ML / AI</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="7" align="center" style="color: white;">Frameworks & Libraries</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
@@ -83,6 +76,23 @@
         <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="65" height="65"/><br>OpenCV
       </td>
       <td align="center" style="border: none;">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="65" height="65" alt="Hugging Face"/><br>Hugging Face
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="100" height="65"/><br>LangChain
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Data & Visualization</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="65" height="65"/><br>NumPy
       </td>
       <td align="center" style="border: none;">
@@ -91,54 +101,26 @@
       <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="65" height="65"/><br>SciPy
       </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">AI Tools & Frameworks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="100" height="65"/><br>LangChain
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="65" height="65"/><br>Matplotlib
       </td>
       <td align="center" style="border: none;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="65" height="65" alt="Hugging Face"/><br>Hugging Face
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65"/><br>Tableau
       </td>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="65" height="65" alt="ChatGPT"/><br>ChatGPT
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="65" height="65" alt="Claude"/><br>Claude
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="65" height="65" /><br>Google Gemini
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="65" height="65"/><br>Power BI
       </td>
     </tr>
   </tbody>
 </table>
 </div>
 
-<h3 align="center">Web Development</h3>
+<h3 align="center">Frontend</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="7" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js"/><br>Next.js
-      </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/><br>React
       </td>
@@ -154,21 +136,15 @@
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" alt="Tailwind"/><br>Tailwind
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jQuery"/><br>jQuery
-      </td>
     </tr>
   </tbody>
 </table>
 </div>
 
+<h3 align="center">Backend</h3>
+
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
@@ -188,43 +164,10 @@
 </table>
 </div>
 
-<h3 align="center">Data Engineering & Visualization</h3>
+<h3 align="center">Databases</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">Tools & Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65"/><br>Tableau
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="65" height="65"/><br>Power BI
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="65" height="65"/><br>Matplotlib
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="65" height="65"/><br>Seaborn
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">Databases & Cloud</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Databases</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
@@ -244,13 +187,10 @@
 </table>
 </div>
 
+<h3 align="center">Cloud & Tools</h3>
+
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
@@ -259,20 +199,6 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="65" height="65"/><br>Google Cloud
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="65" height="65"/><br>Azure
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">DevOps & Tools</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/><br>Docker
       </td>
@@ -294,10 +220,24 @@
 
 ## 🚀 Featured Projects
 
-### [NYC Sidewalk Time Machine](https://shyamksateesh.github.io/pedestrian-viz/) 🗽
-Interactive visualization analyzing 20 years of Manhattan pedestrian infrastructure data. Built with React and D3.js, featuring multi-tile selection and coordinate transformations.
+### 🏆 [Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/11401735) — Best Capstone Award
+Dual-stream fusion pipeline combining audio and video modalities with a novel temporal attention mechanism, achieving 80.84% accuracy and a +4% improvement in Dominance prediction over baseline.
 
-**Tech Stack:** React • D3.js • Python • tile2net • Geospatial Processing
+**Tech Stack:** PyTorch • EfficientNet • Transformers
+
+---
+
+### [NYC Sidewalk Time Machine](https://shyamksateesh.github.io/pedestrian-viz/) 🗽
+Full-stack platform processing 3,740+ ML inferences across 20 years of Manhattan satellite imagery, with a custom pipeline compressing 112GB down to 7.5GB (93% reduction) and a dual-interface visualization system.
+
+**Tech Stack:** React • D3.js • Python • PyTorch • tile2net
+
+---
+
+### [D.O.M.I.N.O — Supply Chain Vulnerability Dashboard](https://github.com/VighneshHemnani/domino-trade-big-data-project) 🌐
+Four-step cascade simulation engine modeling supply chain shock propagation across a production-tier dependency graph, precomputing 23,760 scenarios (30 countries × 72 commodities × 11 years) into a compound-indexed MongoDB collection. Validated against the 2022 Russian gas shock, correctly identifying the most exposed downstream economies.
+
+**Tech Stack:** Apache Spark • MongoDB Atlas • FastAPI • Python
 
 ---
 
@@ -309,9 +249,16 @@ Python agent for automated transcription and lyric video generation using audio 
 ---
 
 ### [Multi-Agent RL System](https://github.com/shyamksateesh/taxi-marl) 🤖
-Reinforcement learning framework with parameter sharing and Independent Q-Learning. Achieved scalable performance across 2-5 agents with detailed utilization metrics.
+Reinforcement learning framework with parameter sharing and Independent Q-Learning, achieving scalable performance across 2-5 agents with detailed utilization metrics.
 
 **Tech Stack:** Python • Reinforcement Learning • Q-Learning
+
+---
+
+### [Stereo Sound Event Localization & Detection](https://github.com/shyamksateesh/stereo_seld) 🎧
+DCASE 2025 Task 3 (Machine Listening, NYU) — extended a stereo SELD pipeline with two architectural modifications: a Transformer Encoder with RoPE positional encoding (replacing the baseline biGRU) and Continuous Wavelet Transform feature extraction (replacing STFT). The Transformer modification improved on the reproduced GRU baseline across every metric — F-score 28.51% vs. 27.47%, DOA error 14.30° vs. 15.33°.
+
+**Tech Stack:** PyTorch • Librosa • Transformer Architectures
 
 ---
 
